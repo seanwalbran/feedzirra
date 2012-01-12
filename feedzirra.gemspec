@@ -5,7 +5,7 @@ $:.unshift(lib) unless $:.include?(lib)
 require 'feedzirra/version'
 
 Gem::Specification.new do |s|
-  s.name    = 'feedzirra'
+  s.name    = 'seanwalbran-feedzirra'
   s.version = Feedzirra::VERSION
 
   s.authors  = ['Paul Dix', 'Julien Kirch']
