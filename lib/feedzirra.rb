@@ -16,4 +16,5 @@ module Feedzirra
   autoload :FeedUtilities,      'feedzirra/feed_utilities'
   autoload :Feed,               'feedzirra/feed'
   autoload :Parser,             'feedzirra/parser'
+  autoload :NoParserAvailable,  'feedzirra/feed'
 end
